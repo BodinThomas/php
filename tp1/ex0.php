@@ -5,6 +5,7 @@
 <title>Hello</title>
 </head>
 <body>
+<h1> bienvenue </h1>
 <?php
 echo("Hello world !");
 ?>
